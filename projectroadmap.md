@@ -3,5 +3,7 @@ Python based code: https://github.com/ncayiyane/AI-Powered-Smart-Appointment-Boo
 -
 # Sprint 1
 # Sprint 2
-- tweak code
-- 
+- ensure code :
+- able to create a booking
+- check for time conflicts or errors
+-  view booking
