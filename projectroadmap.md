@@ -10,3 +10,5 @@ Python based code: https://github.com/ncayiyane/AI-Powered-Smart-Appointment-Boo
 - able to create a booking
 - check for time conflicts or errors
 -  view booking
+# Spritn 3
+- Make final tweaks 
