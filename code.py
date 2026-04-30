@@ -9,9 +9,21 @@ def __init__(self, title, date, consultant):
         self.title = title
         self.date  = date
         self.consultant = consultant
+        
+ # double booking 
+
+def add_booking(self, new_booking):
+ for booking in self.bookings:
+ if booking.consultant == new_booking.consultant:
+ if booking.overlaps(new_booking):
+print(" Double booking detected!")
+ return False
 
 def find_date
  return self.date
 
 def find_consultant 
 return self.consultant
+
+
+
