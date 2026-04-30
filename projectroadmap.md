@@ -2,6 +2,9 @@
 Python based code: https://github.com/ncayiyane/AI-Powered-Smart-Appointment-Booking-System
 -
 # Sprint 1
+- create repository
+- readme
+- projectroadmap
 # Sprint 2
 - ensure code :
 - able to create a booking
